@@ -13,4 +13,4 @@ An Excel dashboard analyzing FMCG sales using slicers and charts, inspired by Ze
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
 
 ## Preview:
-Screenshot coming soon
+![Zepto Excel Dashboard](2025-07-26%20(1).png)
