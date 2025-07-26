@@ -1,5 +1,4 @@
-# zepto-dashboard
-Excel-based dashboard visualizing FMCG sales by outlet type, size, and item categories-styled like zepto.
+
 # Zepto Excel Dashboard
 
 An Excel dashboard analyzing FMCG sales using slicers and charts, inspired by Zepto's UI.
